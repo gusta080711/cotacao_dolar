@@ -1,3 +1,5 @@
+nome:Gustavo Silva de Miranda
+
 # cotacao_dolar
 pseudocodigo cotação dolar
 
